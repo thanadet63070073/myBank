@@ -1,5 +1,5 @@
 # myBank
 Tool:
-frontend: Vue, bulma(CSS)
-Backend: express
+frontend: Vue, bulma(CSS) <br/>
+Backend: express <br/>
 database: mysql
